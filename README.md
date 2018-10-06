@@ -1,2 +1,4 @@
-# CameraEffectsAnalytics
-Analytics dashboard for in-effect statistics gathered from the Camera Effect using the Analytics class.
+# Voltage
+## Analytics for Facebook's Spark AR
+
+This package contains an analytics dashboard for measuring and monitoring the success and interactions of a Spark AR Camera Effect.
